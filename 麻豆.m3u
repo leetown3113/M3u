@@ -45,32 +45,6 @@ http://live.redtraffic.xyz:80/bigass.m3u8
 http://live.redtraffic.xyz:80/hardcore.m3u8
 #EXTINF:-1 group-title="groupName=玛莎▪拉蒂",K频道欧美版
 http://live.redtraffic.xyz:80/threesome.m3u8
-#EXTINF:-1 group-title="groupName=日韩▪全网",韩国 Ⅰ EBS儿童
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 group-title="groupName=日韩▪全网",韩国 Ⅰ MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 group-title="groupName=日韩▪全网",韩国 Ⅰ YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-#EXTINF:-1 group-title="groupName=日韩▪全网",韩国 Ⅰ 선거방송
-http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 group-title="groupName=日韩▪全网",日本 Ⅰ 全天新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="groupName=日韩▪全网",日本 Ⅰ 天气频道
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 group-title="groupName=日韩▪全网",日本 Ⅰ TOKYO
-http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
-#EXTINF:-1 group-title="groupName=央视▪全网",CCTV-4国际
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="groupName=央视▪全网",CCTV-5⁺体育
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="groupName=央视▪全网",CCTV-15音乐
-http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="groupName=央视▪全网",CCTV-17农业
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-#EXTINF:-1 group-title="groupName=央视▪全网",CGTN-国际台
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="groupName=iHOT▪系列",iHOT爱电竞
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
 #EXTINF:-1 group-title="groupName=MD▪传媒",麻豆传媒001
 https://video2.51daao.com/btt1/2021/04/20210421/vTcVOAWe/index.m3u8
 #EXTINF:-1 group-title="groupName=MD▪传媒",麻豆传媒002
@@ -753,31 +727,3 @@ https://video2.51daao.com/btt1/2020/05/20200503/Up0NZVUv/index.m3u8
 https://video2.51daao.com/btt1/2020/04/20200404/LCoCUCsC/index.m3u8
 #EXTINF:-1 group-title="groupName=MD▪传媒",麻豆传媒345
 https://video2.51daao.com/btt1/2020/04/20200404/zecyFiWg/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",爱情喜剧
-http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",超级电视剧
-http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",超级电影
-http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",超级体育
-http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",超级综艺
-http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",潮妈辣婆
-http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",东北热剧
-http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",古装剧场
-http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",海外剧场
-http://39.134.65.208/PLTV/88888888/224/3221225521/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",黑莓动画
-http://39.134.66.66/PLTV/88888888/224/3221225529/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",欢乐剧场
-http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",炫舞未来
-http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",中国功夫
-http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="groupName=New▪系列",自由搏击
-http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
